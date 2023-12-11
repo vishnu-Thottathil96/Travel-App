@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>879444360046-3f5itdk85umo89h82d2v1ucnh2l80mpe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.879444360046-3f5itdk85umo89h82d2v1ucnh2l80mpe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDc3mQsNUTMkGd-wLAZ6OxJXJBpT45aDM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>879444360046</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.unloack</string>
+	<key>PROJECT_ID</key>
+	<string>unlockkerala</string>
+	<key>STORAGE_BUCKET</key>
+	<string>unlockkerala.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:879444360046:ios:c1b4cdd4d90a6b88d79f7f</string>
+</dict>
+</plist>

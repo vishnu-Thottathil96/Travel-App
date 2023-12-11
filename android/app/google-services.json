@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "879444360046",
+    "project_id": "unlockkerala",
+    "storage_bucket": "unlockkerala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879444360046:android:b52dde4cd81d3989d79f7f",
+        "android_client_info": {
+          "package_name": "com.example.unloack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879444360046-rst1n3hf3aekrua4ul4t099ga0jabqqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdE-L_rmVawM2psS1l2d7rIvzDxnpHqgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879444360046-rst1n3hf3aekrua4ul4t099ga0jabqqu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "879444360046-3f5itdk85umo89h82d2v1ucnh2l80mpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.unloack"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879444360046:android:386193f1833a6ef0d79f7f",
+        "android_client_info": {
+          "package_name": "com.waywizard.unloack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879444360046-rst1n3hf3aekrua4ul4t099ga0jabqqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdE-L_rmVawM2psS1l2d7rIvzDxnpHqgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879444360046-rst1n3hf3aekrua4ul4t099ga0jabqqu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "879444360046-3f5itdk85umo89h82d2v1ucnh2l80mpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.unloack"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
